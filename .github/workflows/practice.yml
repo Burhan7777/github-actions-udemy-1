@@ -1,6 +1,6 @@
 name: Practice
 on: push
-job:
+jobs:
   practice:
     runs-on: ubuntu-latest
     steps:
